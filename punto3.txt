@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<vehiculos>
+   <Moto>
+      <marca>onda</marca>
+      <modelo>cv20</modelo>
+      <peaje>10000</peaje>
+   </Moto>
+</vehiculos>

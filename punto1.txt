@@ -1,0 +1,35 @@
+{"vehiculos":[
+		{
+		  "Moto":{"peaje":"10000",
+			"modelo":"2310",
+			"marca":"susuki"
+			}
+		},
+
+		{
+		  "Moto":{
+			"peaje":"10000",
+			"modelo":"cv20",
+			"marca":"onda"
+			}
+		},
+
+		{
+		  "Automovil":{
+				"peaje":"15000",
+				"modelo":"x553",
+				"marca":"toyota"
+			      }
+		},
+
+		{
+		  "Camion":{
+				"peaje":"20000",
+				"modelo":"2310",
+				"ae45":"volvo"
+			}
+		}
+	     ]
+
+}
+
